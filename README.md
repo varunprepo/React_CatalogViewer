@@ -2,7 +2,7 @@
 
 Complete a partially completed React catalog viewer application. Certain core React functionalities have already been implemented. Complete the application as shown below in order to pass all the unit tests.
 
-![](https://hrcdn.net/s3_pub/istreet-assets/mllhJWhWckgDu7PqJo6HVw/catalog-viewer-new.gif)
+![alt Image not found or not able to load](https://github.com/varunprepo/React_Catalog/blob/main/CatalogViewer.JPG)
 
 The application has 2 components:
 
